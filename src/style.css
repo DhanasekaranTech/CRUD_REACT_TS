@@ -1,0 +1,20 @@
+/* .bg-img{
+  
+    background-image: url('/src/asset/bgimg.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+} */
+
+#root{
+    background-color:rgb(103, 148, 103);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:600;
+    /* margin-top: 10px; */
+}

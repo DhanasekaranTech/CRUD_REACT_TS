@@ -5,6 +5,8 @@ import EditProduct from "./components/EditProduct.tsx";
 import Product from './types/product.ts';
 import { useEffect, useState } from "react";
 import api from './api/products.ts'
+import './style.css'
+
 
 function App() {
   const [products, setProducts] = useState<Product[]>([]);
@@ -23,6 +25,7 @@ function App() {
   }, []);
 
   return (
+    <div>
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home products={products} setProducts={setProducts}/>}></Route>
@@ -30,6 +33,7 @@ function App() {
         <Route path="/edit/:id" element={<EditProduct products={products} setProducts={setProducts}/>}></Route>
       </Routes>
     </BrowserRouter>
+    </div>
   );
 }
 

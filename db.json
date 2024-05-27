@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": "2",
-      "title": "iPhone 6",
-      "category": "smartphones",
-      "price": 299.99,
-      "brand": "Apple",
-      "description": "worth for buying"
-    },
-    {
       "id": "3",
       "title": "samsung edge",
       "category": "smartphones",
