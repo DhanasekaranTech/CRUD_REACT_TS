@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import api from "../api/products";
 import Product from "../types/product";
 import { useNavigate } from "react-router-dom";
+import '../style.css'
 
 // interface Product {
 //   id: number;
@@ -117,9 +118,10 @@ const Home: React.FC<Home> = ({ products, setProducts }) => {
   };
 
   return (
-    <div className="container mt-5  ">
+    <div className="bg-img ">
+    <div className="container mt-5 bg-">
       {/*Heading  */}
-      <h1 className="mb-5">Product details</h1>
+      <h1 className="font mb-5 mt-10px  text-light">Product details</h1>
 
       <div className="d-flex justify-content-evenly">
         {/* filter by category  */}
@@ -153,7 +155,7 @@ const Home: React.FC<Home> = ({ products, setProducts }) => {
       </div>
 
       {/* product table*/}
-      <table className="table mb-3">
+      <table className="table table-success table-striped">
         <thead>
           <tr>
             <th onClick={handleSortByTitle}>
@@ -178,7 +180,7 @@ const Home: React.FC<Home> = ({ products, setProducts }) => {
 
               <td>
                 <button
-                  className="btn btn-info btn-sm"
+                  className="btn btn-success btn-sm"
                   onClick={() => handleViewProduct(product)}
                 >
                   view
@@ -205,20 +207,21 @@ const Home: React.FC<Home> = ({ products, setProducts }) => {
 
       <div className="d-flex justify-content-between">
         <button
-          className="btn btn-secondary mb-5"
+          className="btn btn-primary mb-5"
           onClick={handlePrevPage}
           disabled={currentPage === 1}
         >
           Previous
         </button>
         <button
-          className="btn btn-secondary mb-5"
+          className="btn btn-primary mb-5"
           onClick={handleNextPage}
           disabled={indexOfLastProduct >= products.length}
         >
           Next
         </button>
       </div>
+    </div>
     </div>
   );
 };
