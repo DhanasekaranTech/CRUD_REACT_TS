@@ -1,0 +1,234 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "iPhone 6",
+      "category": "smartphones",
+      "price": 299.99,
+      "brand": "Apple",
+      "description": "worth for buying"
+    },
+    {
+      "id": "3",
+      "title": "samsung edge",
+      "category": "smartphones",
+      "price": 1099.99,
+      "brand": "Samsung",
+      "description": "worth for buying"
+    },
+    {
+      "id": "4",
+      "title": "Oppo A17",
+      "category": "smartphones",
+      "price": 249.99,
+      "brand": "Oppo",
+      "description": "worth for buying"
+    },
+    {
+      "id": "5",
+      "title": "Oppo F19 Pro+",
+      "category": "smartphones",
+      "price": 1999.99,
+      "brand": "Oppo",
+      "description": "worth for buying"
+    },
+    {
+      "id": "6",
+      "title": "Apple MacBook Pro",
+      "category": "laptops",
+      "price": 1999.99,
+      "brand": "Apple",
+      "description": "worth for buying"
+    },
+    {
+      "id": "7",
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "category": "laptops",
+      "price": 1799.99,
+      "brand": "Asus",
+      "description": "worth for buying"
+    },
+    {
+      "id": "8",
+      "title": "Huawei Matebook X Pro",
+      "category": "laptops",
+      "price": 1399.99,
+      "brand": "Huawei",
+      "description": "worth for buying"
+    },
+    {
+      "id": "10",
+      "title": "New DELL XPS 13 9300 Laptop",
+      "category": "laptops",
+      "price": 49.99,
+      "brand": "Dell",
+      "description": "worth for buying"
+    },
+    {
+      "id": "12",
+      "title": "Chanel Coco Noir Eau De",
+      "category": "fragrances",
+      "price": 129.99,
+      "brand": "Chanel",
+      "description": "worth for buying"
+    },
+    {
+      "id": "13",
+      "title": "Dior J'adore",
+      "category": "fragrances",
+      "price": 69.99,
+      "brand": "Dior",
+      "description": "worth for buying"
+    },
+    {
+      "id": "14",
+      "title": "Dolce Shine Eau de",
+      "category": "fragrances",
+      "price": 69.99,
+      "brand": "Dolce & Gabbana",
+      "description": "worth for buying"
+    },
+    {
+      "id": "15",
+      "title": "Gucci Bloom Eau de",
+      "category": "fragrances",
+      "price": 79.99,
+      "brand": "Gucci",
+      "description": "worth for buying"
+    },
+    {
+      "id": "17",
+      "title": "Olay Ultra Moisture Shea Butter Body Wash",
+      "category": "skin-care",
+      "price": 12.99,
+      "brand": "Olay",
+      "description": "worth for buying"
+    },
+    {
+      "id": "19",
+      "title": "Annibale Colombo Bed",
+      "price": 2499.99,
+      "category": "furniture",
+      "brand": "Annibale Colombo",
+      "description": "worth for buying"
+    },
+    {
+      "id": "20",
+      "title": "Annibale Colombo Sofa",
+      "category": "furniture",
+      "price": 2499.99,
+      "brand": "Annibale Colombo",
+      "description": "worth for buying"
+    },
+    {
+      "id": "21",
+      "title": "Bedside Table African Cherry",
+      "category": "furniture",
+      "price": 299.99,
+      "brand": "Furniture Co.",
+      "description": "worth for buying"
+    },
+    {
+      "id": "22",
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "category": "furniture",
+      "price": 499.99,
+      "brand": "Knoll",
+      "description": "worth for buying"
+    },
+    {
+      "id": "24",
+      "title": "Generic Motorcycle",
+      "category": "motorcycle",
+      "price": 3999.99,
+      "brand": "Generic Motors",
+      "description": "worth for buying"
+    },
+    {
+      "id": "25",
+      "title": "Kawasaki Z800",
+      "category": "motorcycle",
+      "price": 8999.99,
+      "brand": "Kawasaki",
+      "description": "worth for buying"
+    },
+    {
+      "id": "26",
+      "title": "MotoGP CI.H1",
+      "category": "motorcycle",
+      "price": 14999.99,
+      "brand": "MotoGP",
+      "description": "worth for buying"
+    },
+    {
+      "id": "27",
+      "title": "Scooter Motorcycle",
+      "category": "motorcycle",
+      "price": 2999.99,
+      "brand": "ScootMaster",
+      "description": "worth for buying"
+    },
+    {
+      "id": "28",
+      "title": "Sportbike Motorcycle",
+      "category": "motorcycle",
+      "price": 7499.99,
+      "brand": "SpeedMaster",
+      "description": "worth for buying"
+    },
+    {
+      "id": "10c7",
+      "title": "sony watch",
+      "price": "2020",
+      "category": "watch",
+      "brand": "sony"
+    },
+    {
+      "id": "fc0b",
+      "title": "new",
+      "price": "1",
+      "category": "new",
+      "brand": "new"
+    },
+    {
+      "id": "2c26",
+      "title": "newnew",
+      "price": "121",
+      "category": "newnew",
+      "brand": "newnew",
+      "description": "enwnew"
+    },
+    {
+      "id": "ddd2",
+      "title": "test new product",
+      "price": "1010",
+      "category": "bb",
+      "brand": "new test brand",
+      "description": "aa"
+    },
+    {
+      "id": "57da",
+      "title": "mi",
+      "price": 45,
+      "category": "mobile",
+      "brand": "redmi",
+      "description": "new one"
+    },
+    {
+      "id": "691a",
+      "title": "poco",
+      "price": "19900",
+      "category": "smartphones",
+      "brand": "mi",
+      "description": "wroth varma"
+    },
+    {
+      "id": "822a",
+      "title": "ear buds",
+      "price": 2000,
+      "category": "headphones",
+      "brand": "boat",
+      "description": "here for hear"
+    }
+  ]
+}
